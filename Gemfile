@@ -1,7 +1,7 @@
 source :rubygems
 
 gem 'chef', '= 10.16.4'
-gem 'realityforge-braid', '= 0.7.2'
+gem 'realityforge-braid', '= 0.9.0'
 gem 'vagrant', '= 1.0.4'
 gem 'knife-env-diff', '= 0.0.3'
 gem 'knife-windows'
